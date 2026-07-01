@@ -1,5 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://owl-susan.github.io/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'stack'
+[params]
+[menu]
+  [[menu.main]]
+    name = "首页"       # 按钮上显示的文字
+    url = "/"          # 点击后跳转的链接（根目录）
+    weight = 1         # 排序：越小越靠左
+
+  [[menu.main]]
+    name = "文章"       # 这就是你想要的那个按键！
+    url = "/posts/"    # 点击后跳转到文章列表页
+    weight = 2         # 排在首页后面
+  [params.home]
+    mode = "post"  
 
