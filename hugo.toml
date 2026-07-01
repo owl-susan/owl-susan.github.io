@@ -20,4 +20,5 @@ theme = 'stack'
     weight = 2         # 排在首页后面
   [params.home]
     mode = "post"  
+    subtitle = "欢迎来到 Owl 的小站 👋 "
 
