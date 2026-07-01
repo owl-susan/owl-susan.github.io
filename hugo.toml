@@ -3,7 +3,7 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'stack'
 [params]
-bio = '一只学开源软件开发的 Owl '
+  bio = '一只学开源软件开发的 Owl '
   occupation = '学生'
   company = '北京信息科技大学'
   [params.social]
