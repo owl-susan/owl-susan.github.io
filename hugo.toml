@@ -8,8 +8,6 @@ theme = 'stack'
   company = '北京信息科技大学'
   [params.social]
     github = 'https://github.com/owl-susan'
-   [params.home]
-  mode = "post"  # 一定要是 post，这样才能让文章列表显示在首页
 [menu]
   [[menu.main]]
     name = "首页"       # 按钮上显示的文字
