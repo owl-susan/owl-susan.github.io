@@ -285,3 +285,9 @@ version后面的填写为”空格＋”0.163.3“
 ## 结束！撒花！！！！
 
 ## 太开心了！
+
+特别鸣谢：
+
+[Hugo 安装保姆级教程（搭建个人blog）-CSDN博客](https://blog.csdn.net/m0_59176231/article/details/148050454)
+
+元宝
