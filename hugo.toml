@@ -3,6 +3,11 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'stack'
 [params]
+bio = '一只学开源软件开发的 Owl '
+  occupation = '学生'
+  company = '北京信息科技大学'
+  [params.social]
+    github = 'https://github.com/owl-susan'
 [menu]
   [[menu.main]]
     name = "首页"       # 按钮上显示的文字
